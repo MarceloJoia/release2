@@ -18,6 +18,9 @@
 
 <p>Par finalizar a primeira parte da diverção criei a primeira versão 0.1.0 </p>
 
+<h2>Hoje dia 20/01/2018 fizemos a correção de um bug da versão 0.1.0</h2>
+<h3>Grandes mudanças foram feitas.</h3>
+<p>Antes não tinha nada agora podemos imprimir na tela "123" toda essa evolução graças ao super treinamento da Code Education. A vocês que pocibilitaram isso meu muito obrigado</p>
 
 
 
